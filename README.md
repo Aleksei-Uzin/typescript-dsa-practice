@@ -9,3 +9,5 @@ Problems are sourced from:
 ## Resources
 
 - [Effective TypeScript](https://effectivetypescript.com/)
+
+- [microsoft: TypeScript Performance](https://github.com/microsoft/TypeScript/wiki/Performance)
